@@ -1,0 +1,357 @@
+| Card                                                                               | Age      | Type                  |
+|------------------------------------------------------------------------------------+----------+-----------------------|
+| https://www.wikiwand.com/en/Holy_Roman_Empire                                      | I        | gov                   |
+| https://www.wikiwand.com/en/Republic_of_Venice                                     | I        | gov                   |
+| https://www.wikiwand.com/en/Shogunate                                              | I        | gov                   |
+| https://www.wikiwand.com/en/Elective_monarchy                                      | I/II     | gov                   |
+| https://www.wikiwand.com/en/Stratocracy                                            | I/II/III | gov                   |
+| https://www.wikiwand.com/de/Stilicho                                               | A        | leader                |
+| https://www.wikiwand.com/en/Ashurbanipal                                           | A        | leader                |
+| https://www.wikiwand.com/en/Bias_of_Priene                                         | A        | leader                |
+| https://www.wikiwand.com/en/Chilon_of_Sparta                                       | A        | leader                |
+| https://www.wikiwand.com/en/Cicero                                                 | A        | leader                |
+| https://www.wikiwand.com/en/Galen                                                  | A        | leader                |
+| https://www.wikiwand.com/en/Marcus_Aurelius                                        | A        | leader                |
+| https://www.wikiwand.com/en/Olympias                                               | A        | leader                |
+| https://www.wikiwand.com/en/Pittacus_of_Mytilene                                   | A        | leader                |
+| https://www.wikiwand.com/en/Tacitus                                                | A        | leader                |
+| https://www.wikiwand.com/en/Thales                                                 | A        | leader                |
+| https://www.wikiwand.com/en/Zhuang_Zhou                                            | A        | leader                |
+| https://www.wikiwand.com/en/Mithridates_VI_of_Pontus                               | A        | leader                |
+| https://www.wikiwand.com/de/Theoderich_der_Gro%C3%9Fe                              | A / I    | leader                |
+| https://www.wikiwand.com/de/Hildegard_von_Bingen                                   | I        | leader                |
+| https://www.wikiwand.com/en/Albrecht_D%C3%BCrer                                    | I        | leader                |
+| https://www.wikiwand.com/en/Augustine_of_Hippo                                     | I        | leader                |
+| https://www.wikiwand.com/en/Bede                                                   | I        | leader                |
+| https://www.wikiwand.com/en/Cesare_borgia                                          | I        | leader                |
+| https://www.wikiwand.com/en/Desiderius_Erasmus                                     | I        | leader                |
+| https://www.wikiwand.com/en/Girolamo_Savonarola                                    | I        | leader                |
+| https://www.wikiwand.com/en/Gjergj_Skanderbeg                                      | I        | leader                |
+| https://www.wikiwand.com/en/Gregory_the_Great                                      | I        | leader                |
+| https://www.wikiwand.com/en/Hiawatha                                               | I        | leader                |
+| https://www.wikiwand.com/en/John_Chrysostom                                        | I        | leader                |
+| https://www.wikiwand.com/en/Kublai_Khan                                            | I        | leader                |
+| https://www.wikiwand.com/en/Matilda_of_Tuscany                                     | I        | leader                |
+| https://www.wikiwand.com/en/Mehmed_II                                              | I        | leader                |
+| https://www.wikiwand.com/en/Nicholas_of_Cusa                                       | I        | leader                |
+| https://www.wikiwand.com/en/Pachacuti                                              | I        | leader                |
+| https://www.wikiwand.com/en/Sejong_the_Great                                       | I        | leader                |
+| https://www.wikiwand.com/en/Thomas_Aquinas                                         | I        | leader                |
+| https://www.wikiwand.com/en/William_of_Ockham                                      | I        | leader                |
+| https://www.wikiwand.com/en/Wu_Zetian                                              | I        | leader                |
+| https://www.wikiwand.com/en/Jan_Zizka                                              | I        | leader                |
+| https://www.wikiwand.com/en/Kashi_Vishwanath_Temple                                | I        | leader                |
+| https://www.wikiwand.com/de/Martin_Luther                                          | I / II   | leader                |
+| https://www.wikiwand.com/en/Andrew_Carnegie                                        | II       | leader                |
+| https://www.wikiwand.com/en/Antoni_Gaudi                                           | II       | leader                |
+| https://www.wikiwand.com/en/Charles_M._Schwab                                      | II       | leader                |
+| https://www.wikiwand.com/en/Hendrick_Lorentz                                       | II       | leader                |
+| https://www.wikiwand.com/en/Henri_Becquerel                                        | II       | leader                |
+| https://www.wikiwand.com/en/Henry_Bessemer                                         | II       | leader                |
+| https://www.wikiwand.com/de/Carl_von_Linde                                         | II       | leader                |
+| https://www.wikiwand.com/de/Friedrich_Schiller                                     | II       | leader                |
+| https://www.wikiwand.com/de/Gotthold_Ephraim_Lessing                               | II       | leader                |
+| https://www.wikiwand.com/de/Heinrich_Heine                                         | II       | leader                |
+| https://www.wikiwand.com/de/Helmuth_Karl_Bernhard_von_Moltke                       | II       | leader                |
+| https://www.wikiwand.com/de/Johannes_Kepler                                        | II       | leader                |
+| https://www.wikiwand.com/de/Karl_V._(HRR)                                          | II       | leader                |
+| https://www.wikiwand.com/de/Karl_X._Gustav                                         | II       | leader                |
+| https://www.wikiwand.com/de/Klemens_Wenzel_Lothar_von_Metternich                   | II       | leader                |
+| https://www.wikiwand.com/de/Ludwig_van_Beethoven                                   | II       | leader                |
+| https://www.wikiwand.com/de/Ludwig_Wilhelm_(Baden-Baden)                           | II       | leader                |
+| https://www.wikiwand.com/de/Maria_Theresia                                         | II       | leader                |
+| https://www.wikiwand.com/de/Max_Planck                                             | II       | leader                |
+| https://www.wikiwand.com/de/Otto_von_Guericke                                      | II       | leader                |
+| https://www.wikiwand.com/de/Rudolf_Diesel                                          | II       | leader                |
+| https://www.wikiwand.com/de/Ulrich_von_Hutten                                      | II       | leader                |
+| https://www.wikiwand.com/de/Wallenstein                                            | II       | leader                |
+| https://www.wikiwand.com/en/Abbas_the_Great                                        | II       | leader                |
+| https://www.wikiwand.com/en/Abraham_Lincoln                                        | II       | leader                |
+| https://www.wikiwand.com/en/Alexander_von_Humboldt                                 | II       | leader                |
+| https://www.wikiwand.com/en/Alexis_de_Tocqueville                                  | II       | leader                |
+| https://www.wikiwand.com/en/Anne_Robert_Jacques_Turgot                             | II       | leader                |
+| https://www.wikiwand.com/en/Babur                                                  | II       | leader                |
+| https://www.wikiwand.com/en/Camillo_Benso,_Count_of_Cavour                         | II       | leader                |
+| https://www.wikiwand.com/en/David_Ricardo                                          | II       | leader                |
+| https://www.wikiwand.com/en/Edmund_Burke                                           | II       | leader                |
+| https://www.wikiwand.com/en/Emperor_Meiji                                          | II       | leader                |
+| https://www.wikiwand.com/en/Fr%C3%A9d%C3%A9ric_Bastiat                             | II       | leader                |
+| https://www.wikiwand.com/en/Friedrich_Nietzsche                                    | II       | leader                |
+| https://www.wikiwand.com/en/Gustav_II_Adolf                                        | II       | leader                |
+| https://www.wikiwand.com/en/Henry_David_Thoreau                                    | II       | leader                |
+| https://www.wikiwand.com/en/Hideyoshi                                              | II       | leader                |
+| https://www.wikiwand.com/en/Ieyasu                                                 | II       | leader                |
+| https://www.wikiwand.com/en/Ignatius_of_Loyola                                     | II       | leader                |
+| https://www.wikiwand.com/en/Ivan_the_Terrible                                      | II       | leader                |
+| https://www.wikiwand.com/en/James_Madison                                          | II       | leader                |
+| https://www.wikiwand.com/en/Jean-Baptiste_Say                                      | II       | leader                |
+| https://www.wikiwand.com/en/Jean-Jacques_Rousseau                                  | II       | leader                |
+| https://www.wikiwand.com/en/Jeremy_Bentham                                         | II       | leader                |
+| https://www.wikiwand.com/en/John_Churchill,_1st_Duke_of_Marlborough                | II       | leader                |
+| https://www.wikiwand.com/en/John_Dalberg-Acton,_1st_Baron_Acton                    | II       | leader                |
+| https://www.wikiwand.com/en/John_Milton                                            | II       | leader                |
+| https://www.wikiwand.com/en/Jules_verne                                            | II       | leader                |
+| https://www.wikiwand.com/en/Kangxi_Emperor                                         | II       | leader                |
+| https://www.wikiwand.com/en/Marquis_de_Condorcet                                   | II       | leader                |
+| https://www.wikiwand.com/en/Mary_Wollstonecraft                                    | II       | leader                |
+| https://www.wikiwand.com/en/Max_Stirner                                            | II       | leader                |
+| https://www.wikiwand.com/en/Max_Weber                                              | II       | leader                |
+| https://www.wikiwand.com/en/Montesquieu                                            | II       | leader                |
+| https://www.wikiwand.com/en/Niccol%C3%B2_Machiavelli                               | II       | leader                |
+| https://www.wikiwand.com/en/Oda_Nobunaga                                           | II       | leader                |
+| https://www.wikiwand.com/en/Paul_Reuter                                            | II       | leader                |
+| https://www.wikiwand.com/en/Peter_the_Great                                        | II       | leader                |
+| https://www.wikiwand.com/en/Pierre-Joseph_Proudhon                                 | II       | leader                |
+| https://www.wikiwand.com/en/Prince_Eugene_of_Savoy                                 | II       | leader                |
+| https://www.wikiwand.com/en/Ralph_Waldo_Emerson                                    | II       | leader                |
+| https://www.wikiwand.com/en/Richard_Cobden                                         | II       | leader                |
+| https://www.wikiwand.com/en/Theodor_Mommsen                                        | II       | leader                |
+| https://www.wikiwand.com/en/Thomas_Babington_Macaulay                              | II       | leader                |
+| https://www.wikiwand.com/en/Thomas_Brackett_Reed                                   | II       | leader                |
+| https://www.wikiwand.com/en/Thomas_Jefferson                                       | II       | leader                |
+| https://www.wikiwand.com/en/Thomas_Paine                                           | II       | leader                |
+| https://www.wikiwand.com/en/Timur                                                  | II       | leader                |
+| https://www.wikiwand.com/en/Victor_Emmanuel_II                                     | II       | leader                |
+| https://www.wikiwand.com/en/Voltaire                                               | II       | leader                |
+| https://www.wikiwand.com/en/Wilhelm_von_Humboldt                                   | II       | leader                |
+| https://www.wikiwand.com/en/William_Ewart_Gladstone                                | II       | leader                |
+| https://www.wikiwand.com/en/J.P._Morgan                                            | II       | leader                |
+| https://www.wikiwand.com/en/Karl_Ferdinand_Braun                                   | II       | leader                |
+| https://www.wikiwand.com/en/Maria_Theresia                                         | II       | leader                |
+| https://www.wikiwand.com/en/Nikola_Tesla                                           | II       | leader                |
+| https://www.wikiwand.com/en/Robert_Koch                                            | II       | leader                |
+| https://www.wikiwand.com/en/Srinivasa_Ramanujan                                    | II       | leader                |
+| https://www.wikiwand.com/de/Walther_Rathenau                                       | II / III | leader                |
+| https://www.wikiwand.com/en/AlphaGo                                                | III      | leader                |
+| https://www.wikiwand.com/en/Arthur_Holly_Compton                                   | III      | leader                |
+| https://www.wikiwand.com/en/Clement_Attlee                                         | III      | leader                |
+| https://www.wikiwand.com/en/Shuji_Nakamura                                         | III      | leader                |
+| https://www.wikiwand.com/de/Emmy_Noether                                           | III      | leader                |
+| https://www.wikiwand.com/de/Hugo_Junkers                                           | III      | leader                |
+| https://www.wikiwand.com/de/Sophie_Scholl                                          | III      | leader                |
+| https://www.wikiwand.com/de/Thomas_Mann                                            | III      | leader                |
+| https://www.wikiwand.com/en/Amartya_Sen                                            | III      | leader                |
+| https://www.wikiwand.com/en/Aristide_Briand                                        | III      | leader                |
+| https://www.wikiwand.com/en/Ayn_Rand                                               | III      | leader                |
+| https://www.wikiwand.com/en/Bram_Cohen                                             | III      | leader                |
+| https://www.wikiwand.com/en/Calvin_Coolidge                                        | III      | leader                |
+| https://www.wikiwand.com/en/Friedrich_Ebert                                        | III      | leader                |
+| https://www.wikiwand.com/en/Friedrich_Hayek                                        | III      | leader                |
+| https://www.wikiwand.com/en/Gary_Becker                                            | III      | leader                |
+| https://www.wikiwand.com/en/Gustav_Stresemann                                      | III      | leader                |
+| https://www.wikiwand.com/en/Hannah_Arendt                                          | III      | leader                |
+| https://www.wikiwand.com/en/Herbert_Hoover                                         | III      | leader                |
+| https://www.wikiwand.com/en/J%C3%BCrgen_Schmidhuber                                | III      | leader                |
+| https://www.wikiwand.com/en/Jean_Michel_Jarre                                      | III      | leader                |
+| https://www.wikiwand.com/en/John_Maynard_Keynes                                    | III      | leader                |
+| https://www.wikiwand.com/en/John_Rawls                                             | III      | leader                |
+| https://www.wikiwand.com/en/Joseph_Schumpeter                                      | III      | leader                |
+| https://www.wikiwand.com/en/Karl_Popper                                            | III      | leader                |
+| https://www.wikiwand.com/en/Kurt_Tucholsky                                         | III      | leader                |
+| https://www.wikiwand.com/en/Lucky_Luciano                                          | III      | leader                |
+| https://www.wikiwand.com/en/Matthias_Erzberger                                     | III      | leader                |
+| https://www.wikiwand.com/en/Meyer_Lansky                                           | III      | leader                |
+| https://www.wikiwand.com/en/Milton_Friedman                                        | III      | leader                |
+| https://www.wikiwand.com/en/Otto_Wels                                              | III      | leader                |
+| https://www.wikiwand.com/en/Paul_MacCready                                         | III      | leader                |
+| https://www.wikiwand.com/en/Philipp_Scheidemann                                    | III      | leader                |
+| https://www.wikiwand.com/en/Robert_Nozick                                          | III      | leader                |
+| https://www.wikiwand.com/en/Robert_Solow                                           | III      | leader                |
+| https://www.wikiwand.com/en/Walther_Rathenau                                       | III      | leader                |
+| https://www.wikiwand.com/en/Yuri_Bezmenov                                          | III      | leader                |
+| https://www.wikiwand.com/en/Jim_Keller_(engineer)                                  | III      | leader                |
+| https://www.wikiwand.com/en/John_von_Neumann                                       | III      | leader                |
+| https://www.wikiwand.com/en/Joseph_Schumpeter                                      | III      | leader                |
+| https://www.wikiwand.com/en/Kenneth_Arrow                                          | III      | leader                |
+| https://www.wikiwand.com/en/Kurt_G%C3%B6del                                        | III      | leader                |
+| https://www.wikiwand.com/en/Lee_Kuan_Yew                                           | III      | leader                |
+| https://www.wikiwand.com/en/Magnus_Carlsen                                         | III      | leader                |
+| https://www.wikiwand.com/en/Marlene_Dietrich                                       | III      | leader                |
+| https://www.wikiwand.com/en/Moshe_Dayan                                            | III      | leader                |
+| https://www.wikiwand.com/en/Nelson_Mandela                                         | III      | leader                |
+| https://www.wikiwand.com/en/Niels_Bohr                                             | III      | leader                |
+| https://www.wikiwand.com/en/Norbert_Wiener                                         | III      | leader                |
+| https://www.wikiwand.com/en/Paul_Dirac                                             | III      | leader                |
+| https://www.wikiwand.com/en/Pavel_Cherenkov                                        | III      | leader                |
+| https://www.wikiwand.com/en/Peter_Higgs                                            | III      | leader                |
+| https://www.wikiwand.com/en/Phil_Zimmermann                                        | III      | leader                |
+| https://www.wikiwand.com/en/Pierre_de_Coubertin                                    | III      | leader                |
+| https://www.wikiwand.com/en/Richard_Feynman                                        | III      | leader                |
+| https://www.wikiwand.com/en/Roger_Penrose                                          | III      | leader                |
+| https://www.wikiwand.com/en/Steven_Chu                                             | III      | leader                |
+| https://www.wikiwand.com/en/Subrahmanyan_Chandrasekhar                             | III      | leader                |
+| https://www.wikiwand.com/en/History_of_the_Teller%E2%80%93Ulam_design              | III      | leader                |
+| https://www.wikiwand.com/en/Werner_Heisenberg                                      | III      | leader                |
+| https://www.wikiwand.com/en/Winston_Churchill                                      | III      | leader                |
+| https://www.wikiwand.com/en/Wolfgang_Pauli                                         | III      | leader                |
+| https://www.wikiwand.com/en/Militia                                                | A        | tech                  |
+| https://www.wikiwand.com/en/Republic_of_Venice                                     | I        | tech                  |
+| https://www.wikiwand.com/en/Laser                                                  | III      | tech                  |
+| https://www.wikiwand.com/en/Radar                                                  | III      | tech                  |
+| https://www.wikiwand.com/en/Epic_of_Gilgamesh                                      | A        | Tech / wonder         |
+| https://www.wikiwand.com/de/Sachsenspiegel                                         | I        | Tech / wonder         |
+| https://www.wikiwand.com/de/B%C3%BCrgerliches_Gesetzbuch                           | II       | Tech / wonder         |
+| https://www.wikiwand.com/en/Rhodesian_Light_Infantry                               | III      | tech /tactic          |
+| https://www.wikiwand.com/en/Cult_of_Reason                                         | II       | tech/event            |
+| https://www.wikiwand.com/en/Dutch_Republic                                         | II       | tech/gov              |
+| https://www.wikiwand.com/en/Library_of_Ashurbanipal                                | A        | wonder                |
+| https://www.wikiwand.com/de/Deutsches_Museum                                       | II       | wonder                |
+| https://www.wikiwand.com/en/American_Society_for_the_Diffusion_of_Useful_Knowledge | II       | wonder                |
+| https://www.wikiwand.com/en/Empire_State_Building                                  | III      | wonder                |
+| https://www.wikiwand.com/en/Berlin_airlift#Start_of_the_Berlin_Airlift             | III      | wonder                |
+| https://www.wikiwand.com/en/Cambridge_Analytica                                    | III      | wonder                |
+| https://www.wikiwand.com/en/Concorde                                               | III      | wonder                |
+| https://www.wikiwand.com/en/Liberty_ships                                          | III      | wonder                |
+| https://www.wikiwand.com/en/Mk_ultra                                               | III      | wonder                |
+| https://www.wikiwand.com/en/NIST                                                   | III      | wonder                |
+| https://www.wikiwand.com/en/International_Red_Cross                                | III      | wonder                |
+| https://www.wikiwand.com/en/United_Nations                                         | III      | wonder                |
+| https://www.wikiwand.com/de/Westf%C3%A4lischer_Friede                              | II       | Wonder / event        |
+| https://www.wikiwand.com/en/Karlsruhe_Congress                                     | II       | Wonder / event        |
+| https://www.wikiwand.com/en/Crypto_AG                                              | III      | Wonder / event / tech |
+| https://www.wikiwand.com/en/Templars                                               | I        | Event / tech          |
+| https://www.wikiwand.com/en/Knights_Hospitaller                                    | I        | Event / tech          |
+| https://www.wikiwand.com/en/Teutonic_Knights                                       | I        | Event / tech          |
+| https://www.wikiwand.com/en/Alexander_Nevsky                                       | I        | leader                |
+| https://www.wikiwand.com/en/Douglas_Engelbart                                      | III      | leader                |
+| https://www.wikiwand.com/en/The_Book_of_Lord_Shang                                 | A        | Leader / tech         |
+| https://www.wikiwand.com/en/Klaus_Schwab                                           | III      | leader                |
+| https://www.wikiwand.com/en/United_States_Army_Corps_of_Engineers                  | II       | Tech / wonder         |
+| https://www.wikiwand.com/en/Charlie_chaplin                                        | III      | leader                |
+| https://www.wikiwand.com/en/Charles_de_Gaulle                                      | III      | leader                |
+| https://www.wikiwand.com/en/Gilgamesh                                              | A        | leader                |
+| https://www.wikiwand.com/en/Joao_II                                                | I        | leader                |
+| https://www.wikiwand.com/en/Kublai_Khan                                            | I        | leader                |
+| https://www.wikiwand.com/en/Abraham_Lincoln                                        | II       | leader                |
+| https://www.wikiwand.com/en/Mansa_Musa                                             | I        | leader                |
+| https://www.wikiwand.com/en/Mehmed_II                                              | I        | leader                |
+| https://www.wikiwand.com/en/Qin_Shi_Huang                                          | A        | leader                |
+| https://www.wikiwand.com/en/Franklin_D._Roosevelt                                  | III      | leader                |
+| https://www.wikiwand.com/en/Shaka                                                  | II       | leader                |
+| https://www.wikiwand.com/en/Suleiman_the_Magnificent                               | II       | leader                |
+| https://www.wikiwand.com/en/Suryavarman_II                                         | I        | leader                |
+| https://www.wikiwand.com/en/Queen_Victoria                                         | II       | leader                |
+| https://www.wikiwand.com/en/William_the_Silent                                     | II       | leader                |
+| https://www.wikiwand.com/en/Double_Asteroid_Redirection_Test                       | III      | wonder                |
+| https://www.wikiwand.com/en/Frederick_Douglass                                     | II       | leader                |
+| https://www.wikiwand.com/en/First_United_States_Army_Group                         | III      | Wonder / tech         |
+| https://www.wikiwand.com/en/George_Orwell                                          | III      | leader                |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
