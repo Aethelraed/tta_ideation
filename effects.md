@@ -80,4 +80,6 @@ Culture, Science, Resource, Hapy Face, Actions for Political action
 
 Culture for Winning Events, improved Version of events
 
+Pay consumption in Resources
 
+Play technology others have in play
