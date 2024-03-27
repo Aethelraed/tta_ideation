@@ -238,3 +238,10 @@
 | https://www.wikiwand.com/en/Wu_Zetian                                              | I        | leader                |
 | https://www.wikiwand.com/en/Yuri_Bezmenov                                          | III      | leader                |
 | https://www.wikiwand.com/en/Zhuang_Zhou                                            | A        | leader                |
+|https://www.wikiwand.com/en/Benedict_of_Nursia|I|Leader |
+|https://www.wikiwand.com/en/Cyril_and_Methodius|I|Leader |
+|https://www.wikiwand.com/en/Fritz_Lang|III|Leader |
+|https://www.wikiwand.com/en/Akira_Kurosawa|III|Leader |
+|https://www.wikiwand.com/en/Scipio_Africanus|A|Leader |
+|https://www.wikiwand.com/en/Gaius_Marius|A|Leader |
+|https://www.wikiwand.com/en/Sulla|A|Leader |

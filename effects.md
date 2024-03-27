@@ -83,3 +83,11 @@ Culture for Winning Events, improved Version of events
 Pay consumption in Resources
 
 Play technology others have in play
+
+Remove Leader / wonder from row
+
+Gain r/c/f/s whenever a leader / wonder is discarded
+
+Add MIlitary / civil card other than events to event stack for delayed bonus
+
+Play / take leaders for military actions
