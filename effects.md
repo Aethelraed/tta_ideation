@@ -38,6 +38,7 @@ Pay Ressources to gain culture when doing an action
 Pay consumption in Resources
 Play / take leaders for military actions
 Play any military card as event. They give a bonus to everyone.
+Play tech for culture
 Play technology others have in play
 Playing Rural Techs cheaper
 Political actions on tactic
@@ -48,3 +49,4 @@ Resources if weak, science and culture otherwise
 Strength for different type of units you own
 Upon playing an action card you may gain its effect a second time. (as a <ca>)
 Your warriors produce 1 <c> each.
+Double your science production, you cannot have more science than your production
