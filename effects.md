@@ -50,3 +50,6 @@ Strength for different type of units you own
 Upon playing an action card you may gain its effect a second time. (as a <ca>)
 Your warriors produce 1 <c> each.
 Double your science production, you cannot have more science than your production
+Boni for rural buildings depending on UBL
+Whenever you lack a science to do something  you gain one science for this purpose.
+As a Political Action you may add an action card from your hand to this card. Once per turn you may spend a civil action to replay an action card.

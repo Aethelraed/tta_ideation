@@ -1,0 +1,7 @@
+** Teotihuacan and other wonders with multiple cost types
+*** TODO add a box around costs of the same step
+** Player-mats
+*** TODO gray out technologies that are not researched at the beginning of the game
+*** TODO add a unique card slot for governments
+*** TODO add sign for completed wonders and territories
+

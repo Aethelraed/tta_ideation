@@ -321,3 +321,22 @@
 | https://www.wikiwand.com/en/Xenophon                                               | A          | Leader                |
 | https://www.wikiwand.com/en/Yuri_Bezmenov                                          | III        | leader                |
 | https://www.wikiwand.com/en/Zhuang_Zhou                                            | A          | leader                |
+| https://www.wikiwand.com/en/Common_Sense                                           | II         | Wonder / Tech         |
+|https://www.wikiwand.com/en/John_Jacob_Astor|II|Leader |
+|https://www.wikiwand.com/en/Eradication_of_infectious_diseases|III|Event / Wonder |
+|https://www.wikiwand.com/en/Tap_water|A-III|Tech |
+|https://www.wikiwand.com/en/Sch%C3%B6nbrunn_Palace|II|Wonder |
+|https://www.wikiwand.com/en/Euronext_Amsterdam#Buildings|II|Wonder |
+|https://www.wikiwand.com/en/Venetian_Arsenal|I|Wonder |
+|https://www.wikiwand.com/en/Sakarov|III|Leader |
+|https://www.wikiwand.com/en/Rambam|I|Leader |
+|https://www.wikiwand.com/en/Ralbag|I|Leader |
+|https://www.wikiwand.com/en/Gandersheim_Abbey|I|Wonder |
+|https://www.wikiwand.com/en/Oliver_cromwell|II|Leader |
+|https://www.wikiwand.com/de/Carl_von_Linn%C3%A9|II|Leader |
+|https://www.wikiwand.com/en/Caravanserai#History|A|Tech |
+|https://www.wikiwand.com/en/Canal#Middle_Ages|I|Tech |
+|https://www.wikiwand.com/en/Railways#Steam_power_introduced|II|Tech |
+|https://www.wikiwand.com/en/Shipping_container#Intermodal_freight_containers|III|Tech |
+|https://www.wikiwand.com/en/Gary_Kildall|III|Leader |
+|https://www.wikiwand.com/en/Principate|A|Gov |
